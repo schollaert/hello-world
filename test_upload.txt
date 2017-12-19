@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test1......2345.... edit met notepad
+=======
+Test1......2345.... edit op www......
+>>>>>>> e759b2d7a7513e0b35d2e24e6e1d3fbcfa4b859c
