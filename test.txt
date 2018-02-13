@@ -1,9 +1,4 @@
-xxx
-yaaayy2
-1aaaaaa
-xxxr
-yyy2r
-1ra
+0
+1a
 Test......change....
-2ar
-r
+2a
